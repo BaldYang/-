@@ -1,1 +1,4 @@
-最新版APK安装包见Releases内"*.apk"文件，iApp源码见Releases内"*.iapp"文件
+The latest version of the APK installation package see the "*.apk" file in "Releases".
+The iApp source code see the "*.iapp" file in "Releases".
+APK安装程序包的最新版本请参见“Releases”中的“*.apk”文件。
+iApp源代码请参见“Releases”中的“*.iapp”文件。
