@@ -1,5 +1,2 @@
-The latest version of the APK installation package see the "*.apk" file in "Releases".  
-The iApp source code see the "*.iapp" file in "Releases".  
-  
-最新版本APK安装包请参见“Releases(发行版)”内“*.apk”文件。  
-iApp源代码请参见“Releases(发行版)”内“*.iapp”文件。
+BOOM is based on iApp. For the latest version of the Android installation package, please see "Release".  
+BOOM基于iApp制作，最新版本安卓安装包请参见“发行版”。
