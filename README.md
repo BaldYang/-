@@ -6,7 +6,7 @@ BOOM基于iApp制作，最新版本Android安装包请参见“[发行版](https
 
 ****
 
-### 「BOOM」(Android version) NFC activation card is now online!
+### "BOOM" (Android version) NFC activation card is now online!
 # 「BOOM」(Android版) NFC启动卡现已上线！
 
 即扫即用，启动迅速！  
